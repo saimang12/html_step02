@@ -65,7 +65,7 @@ body {
     top: 76px;
     left: 0;
     width: 100%;
-    transform: translate(0, -10%);
+    transform: translate(0, 20%);
     transition: 0.5s;
     opacity: 0;
     background: #f9f9f9;
